@@ -1,4 +1,24 @@
 {
     "java.project.outputPath": "bin",
+    "java.project.sourcePaths": [
+        "Arrays/Easy",
+        "Arrays/Medium",
+        "Arrays/Hard",
+        "Strings/Easy",
+        "Strings/Medium",
+        "Strings/Hard",
+        "LinkedList/Easy",
+        "LinkedList/Medium",
+        "LinkedList/Hard",
+        "Recursion/Easy",
+        "Recursion/Medium",
+        "Recursion/Hard",
+        "SlidingWindowTwoPointers/Easy",
+        "SlidingWindowTwoPointers/Medium",
+        "SlidingWindowTwoPointers/Hard",
+        "BinarySearch/Easy",
+        "BinarySearch/Medium",
+        "BinarySearch/Hard"
+    ],
     "editor.inlineSuggest.enabled": false
 }

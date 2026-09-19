@@ -3,7 +3,6 @@
 // Example: nums = [10, 22, 12, 3, 0, 6] -> [22, 12, 6]
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 

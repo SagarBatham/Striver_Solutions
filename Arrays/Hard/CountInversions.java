@@ -10,7 +10,7 @@ public class CountInversions {
         return mergeSort(nums,0,nums.length-1);
     }
 
-    public long mergeSort(int[] nums,int low,int high){
+    public static long mergeSort(int[] nums,int low,int high){
         if(low>=high){
             return 0;
         }
@@ -23,7 +23,7 @@ public class CountInversions {
         return count;
     }
 
-    public long merge(int[] nums,int low,int mid,int high){
+    public static long merge(int[] nums,int low,int mid,int high){
         int p1=low;
         int p2=mid+1;
         int k=0;
